@@ -40,7 +40,7 @@
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/biswa20p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="biswa20p" /></a></p><br><br> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chirag047&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Chirag047" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chirag047&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Chirag047" /></p> -->
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Chirag047&show_icons=true&theme=dark&locale=en" alt="Chirag047" /></p>
 

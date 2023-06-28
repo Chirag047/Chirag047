@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag047&label=Profile%20views&color=0e75b6&style=flat" alt="Chirag047" /> </p>
 
-- 🔭 I’m currently working on **Web3 Projects**
+- 🔭 I’m currently working on **Webdev Projects**
 
-- 🌱 I’m currently learning **Solidity and NextJs**
+- 🌱 I’m currently learning **ReactJs**
 
 <!-- - 👯 I’m looking to collaborate on **Open Source Projects** -->
 

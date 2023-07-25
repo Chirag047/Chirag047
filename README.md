@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
+- 📃 Resume : <a href="https://drive.google.com/file/d/1bzumrdwa37PIVClQeLrVcgRBbOnk8iAF/view?usp=sharing" target="blank"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Chirag Resume" height="20" /></a>
+
 <!-- - 👯 I’m looking to collaborate on **Open Source Projects** -->
 
 <!-- - 💬 Ask me about **Flutter, Dart, Appwrite and Unity** -->

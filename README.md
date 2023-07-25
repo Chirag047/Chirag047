@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chiragnagar.tech@gmail.com**
 
-- ⚡ Interesting fact **I am an Video Editor**
+- ⚡ Interesting fact **I am a Video Editor**
 
 
 <h3 align="left">Connect with me:</h3>

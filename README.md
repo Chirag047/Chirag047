@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Webdev Projects**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs** and **TypeScript**
 
 - 📃 Resume : <a href="https://drive.google.com/file/d/1bzumrdwa37PIVClQeLrVcgRBbOnk8iAF/view?usp=sharing" target="blank"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Chirag Resume" height="20" /></a>
 

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs** and **TypeScript**
 
-- 📃 Resume : <a href="https://drive.google.com/file/d/1bzumrdwa37PIVClQeLrVcgRBbOnk8iAF/view?usp=sharing" target="blank"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Chirag Resume" height="20" /></a>
+- 📃 Resume : <a href="https://drive.google.com/file/d/1g0NJfGPVHClpxMVZhvD7PW9clpGy-p-3/view?usp=sharing" target="blank"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Chirag Resume" height="20" /></a>
 
 <!-- - 👯 I’m looking to collaborate on **Open Source Projects** -->
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chiragnagar.tech@gmail.com**
 
-- ⚡ Interesting fact **I am a Video Editor**
+- ⚡ Interesting fact **I am a Content Creator**
 
 
 <h3 align="left">Connect with me:</h3>
